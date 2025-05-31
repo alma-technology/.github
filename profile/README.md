@@ -1,5 +1,8 @@
 # Alma Technology
 
+[![fa-IR](https://img.shields.io/badge/lang-fa-green.svg)](https://github.com/alma-technology/.github/blob/main/README.fa.md)
+[![arabic (العربية)](https://img.shields.io/badge/lang-ar-yellow.svg)](https://github.com/alma-technology/.github/blob/main/README.ar.md)
+
 **Alma Technology** is a software company focused on crafting tailored digital solutions that empower businesses to grow, automate, and scale. Since 2024, we’ve been helping organizations streamline operations through robust ERP systems, intelligent automation, and custom software development.
 
 ## 🚀 What We Do
